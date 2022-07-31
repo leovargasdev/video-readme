@@ -18,7 +18,7 @@ Descrição do projeto(funcionalidade principal, link figma, link autor, outras 
 
 - [x] Regra de negócio 1
 - [x] Regra de negócio 2
-- [] Deploy da aplicação no local X
+- [ ] Deploy da aplicação no local X
 
 ## 📥 Instalação e execução
 
